@@ -15,15 +15,11 @@ SQLite3 DB, with Add, Edit, and Remove functions in place to manage data.
 Export to CSV feature, with tk.messagebox directory selector (maybe a problem for a headless operation)
 Bulk-importing works if you paste from an excel file.
 
-What I have plans to do:
-GUI wrapper.
-Secondary API source call (openLibrary, maybe others, but the JSON response discrepancies might kill this thought).
-Break out core functions to a couples of seperate modules files.
-Implement a book search & add feature for adding books & database searches (for values other than ISBN).
-Bulk edit feature.
+See the Issues section for future plans under "Enhancement" tags.
+More distant future plans: Implement a review system for the saved books.
 
 License: GPL 3
 
-Contributions: Teamwork makes the dream work. I'm not a seasoned coder, so I'm open to anyones input. 
+Contributions: Teamwork makes the dream work. I'm not a seasoned coder, so I'm open to anyone's constructive input. 
 
-Additional Ideas: See Issues.
+Have ideas for this? Submit a new issue for it!
