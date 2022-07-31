@@ -112,3 +112,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/PersonalPybrarian.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/encodings.xml
+data/books.db
