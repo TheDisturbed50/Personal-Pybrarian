@@ -34,7 +34,7 @@ def data_fetch(url2):
     # url1 = "https://openlibrary.org/api/books?bibkeys=ISBN:"
     # url3 = "&jscmd=details&format=json"
     url1 = "https://www.googleapis.com/books/v1/volumes?q=isbn:"
-    api_key = "AIzaSyBub1PyEefimXbWPBLrjGhM1PNuP1LQP14"
+    api_key = ""
     url3 = "&key=" + api_key
     url = url1 + url2  # + url3  # concat url sections together, ISBN num passed through func arg
     print("API URI, GET Method: " + url + "\n")
